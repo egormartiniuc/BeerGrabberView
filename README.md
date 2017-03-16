@@ -7,7 +7,7 @@ I'm decided to grab beer from one specific country, checked on GitHub unfortunat
 
 Finally I did this Grabber, in a few days. :)
 
-All made on Python 3.6 
+All made on Python 3.5 (3.6 also testd) 
 
 Grabber:
   will need to install BeautifulSoup library
