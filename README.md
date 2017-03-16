@@ -7,7 +7,6 @@ I'm decided to grab beer from one specific country, checked on GitHub unfortunat
 
 Finally I did this Grabber, in a few days. :)
 
-
 All made on Python 3.6 
 
 Grabber:
