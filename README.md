@@ -1,4 +1,4 @@
-qu# BeerGrabberView
+BeerGrabberView
 BeerGrabberView grab an information from several global sources (BeerAdvocate, RateBeer and e.t.c), include images and shows it at one tab view.
 
 Into:
@@ -10,9 +10,7 @@ Finally I did this Grabber, in a few days. :)
 Develop on Python 3.5 (3.6 testd) 
 
 Grabber:
-    required - BeautifulSoup, requests
-View:
-  used PyQt5
+    required - BeautifulSoup, requests, PyQt5
 
 sources: 
   beeradvocate
